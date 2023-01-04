@@ -76,7 +76,7 @@ try:
 
 except Exception as e:
 
-	print(' \x1b[1;91m\x1b[1;96m\x1b[1;92m \x1b[1;96m[MX')
+	print(' \x1b[1;91m\x1b[1;96m\x1b[1;92m \x1b[1;96m[HINA')
 
 prox=open('.prox.txt','r').read().splitlines()
 
